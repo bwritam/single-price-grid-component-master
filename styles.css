@@ -16,6 +16,7 @@
  	color: hsl(228, 45%, 44%);
  }
  .first-step{
+ 	font-size: 100%;
  	background-color: #fff;
  	color: grey;
  	margin-left: 5%;
@@ -109,6 +110,7 @@
  	color: hsl(228, 45%, 44%);
  }
  .first-step{
+ 	font-size: 100%;
  	background-color: #fff;
  	color: grey;
  	margin-left: 5%;
